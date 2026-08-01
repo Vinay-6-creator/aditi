@@ -89,8 +89,6 @@ body {
     gap: 15px;
     padding: 10px 5px 20px 5px;
     margin-bottom: 20px;
-    scrollbar-width: thin;
-    scrollbar-color: #ff69b4 transparent;
 }
 
 .slider-container::-webkit-scrollbar {
