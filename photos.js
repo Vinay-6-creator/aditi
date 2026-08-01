@@ -1,9 +1,9 @@
 // Aditi ki photos ke paths yahan update karein
 const aditiPhotos = [
-    "d:\\aditi\\WhatsApp Image 2026-08-01 at 6.08.31 PM.jpeg",
-    "d:\\aditi\\WhatsApp Image 2026-08-01 at 6.08.32 PM (1).jpeg",
-    "d:\\aditi\\WhatsApp Image 2026-08-01 at 6.08.32 PM.jpeg",
-    "d:\\aditi\\WhatsApp Image 2026-08-01 at 6.08.32 PM (2).jpeg",
+    "WhatsApp Image 2026-08-01 at 6.08.31 PM.jpeg",
+    "WhatsApp Image 2026-08-01 at 6.08.32 PM (1).jpeg",
+    "WhatsApp Image 2026-08-01 at 6.08.32 PM.jpeg",
+    "WhatsApp Image 2026-08-01 at 6.08.32 PM (2).jpeg",
 ];
 
 // Slider mein photos dynamic render karne ke liye function
